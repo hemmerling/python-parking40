@@ -1,0 +1,11 @@
+*.pyc
+*.bak*
+*.zip
+*.exe
+*.rpm
+build
+bin
+dist
+doc/html
+doc/rtf
+plain.output
